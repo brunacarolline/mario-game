@@ -10,4 +10,4 @@ Mario doit sauter pour éviter les obstacles et continuer sa progression.
 - CSS3
 - JavaScript
 
-🎮https://brunacarolline.github.io/mariogame-project/
+🎮 https://brunacarolline.github.io/mariogame-project.brunacarolline
