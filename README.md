@@ -1,7 +1,6 @@
 # Super Mario Game
 
-Version simplifiée d'un jeu de plateforme inspiré de Mario, développée avec HTML, CSS et JavaScript.
-
+Version simplifiée d'un jeu de plateforme inspiré de Mario.
 Mario doit sauter pour éviter les obstacles et continuer sa progression.
 
 ## Technologies
